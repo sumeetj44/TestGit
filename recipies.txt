@@ -6,3 +6,4 @@ Dal
 Rice
 Chapatti
 pasta
+Egg
